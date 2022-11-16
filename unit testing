@@ -1,0 +1,8 @@
+- unit testing
+ ok  - o que é:
+     - testa a unidade de codigo
+ ok - como fazer com Jest
+    - quando / como usar
+ ok - como isolar ainda mais o test com mock
+
+
